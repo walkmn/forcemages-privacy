@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-next-feature",
+  "question": "What should we build next?",
+  "options": [
+    { "id": "tournament", "title": "Tournament mode", "text": "5 rounds in a row, upgrade your spells between rounds" },
+    { "id": "spells",     "title": "More spells",     "text": "Homing orb, boomerang, gravity well and more" },
+    { "id": "arenas",     "title": "New arenas",      "text": "New shapes, new obstacles, new ways to fall in" }
+  ]
+}
